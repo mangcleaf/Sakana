@@ -1,0 +1,2232 @@
+[
+    {
+        "id": 1,
+        "name" : "Thai Spring Roll (2)",
+        "image": "imgs/flame (1).png",
+        "image2" :"imgs/peanut.png",
+        "description": "Vegetable",
+        "class": "hot",
+        "class2": "none",
+        "price": 3.75
+    },
+    {
+        "id": 2,
+        "name" : "Egg Roll",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "Chicken",
+        "class": "peanut",
+        "class2": "none",
+        "price": 2.50
+    },
+    {
+        "id": 3,
+        "name" : "Edamame",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 6.95
+    },
+    {
+        "id": 4,
+        "name" : "Chicken Satay",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 8.25
+    },
+    {
+        "id": 5,
+        "name" : "Beef Satay",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "peanut",
+        "class2": "none",
+        "price": 8.95
+    },
+    {
+        "id": 6,
+        "name" : "Pan Fried Chicken Dumpling",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "peanut",
+        "class2": "none",
+        "price": 8.50
+    },
+    {
+        "id": 7,
+        "name" : "Steamed Chicken Dumpling",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 8.25
+    },
+    {
+        "id": 8,
+        "name" : "Steamed Vegetable Dumpling",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 8.25
+    },
+    {
+        "id": 9,
+        "name" : "Szechuan Pork Dumpling",
+        "image": "imgs/flame (1).png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "hot",
+        "class2": "peanut",
+        "price": 8.25
+    },
+    {
+        "id": 10,
+        "name" : "Shumai (8)",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 8.25
+    },
+    {
+        "id": 11,
+        "name" : "Cold Sesame Noodles",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "peanut",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 12,
+        "name" : "Crab Rangoon",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 13,
+        "name" : "Fried Crab Stick (2)",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 14,
+        "name" : "Salt & Pepper Boneless Chicken",
+        "image": "imgs/flame (1).png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 15,
+        "name" : "Salt & Pepper Calamari",
+        "image": "imgs/flame (1).png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 9.95
+    },
+    {
+        "id": 16,
+        "name" : "Fried Chicken Wings (6)",
+        "image": "imgs/peanut.png",
+        "image2" :"imgs/peanut.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 8.25
+    },
+    {
+        "id": 17,
+        "name": "Salt & Pepper Wings (6)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/peanut.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 8.95
+    },
+    {
+        "id": 18,
+        "name": "Buffalo Wing (6)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/peanut.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 8.95
+    },
+    {
+        "id": 19,
+        "name": "Tempura Shrimp w. Lemon Cream (4)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/peanut.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 10.50
+    },
+    {
+        "id": 20,
+        "name": "Tempura Vegetable & Shrimp",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/peanut.png",
+        "description": "(3 shrimp)",
+        "class": "none",
+        "class2": "none",
+        "price": 13.95
+    },
+    {
+        "id": 21,
+        "name": "Chicken Lettuce Wrap",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/peanut.png",
+        "description": "Chicken, lettuce, vegetable & hoisin sauce",
+        "class": "none",
+        "class2": "none",
+        "price": 9.50
+    },
+    {
+        "id": 22,
+        "name": "Tuna Tartar",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "fish",
+        "price": 12.50
+    },
+    {
+        "id": 23,
+        "name": "Salmon Tartar",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "fish",
+        "price": 12.50
+    },
+    {
+        "id": 24,
+        "name": "Yellowtail Tartar",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "fish",
+        "price": 12.50
+    },
+    {
+        "id": 25,
+        "name": "Seafood Ceviche (8)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Assorted sashimi in South American style fresh lemon-lime vinaigrette",
+        "class": "hot",
+        "class2": "fish",
+        "price": 12.50
+    },
+    {
+        "id": 26,
+        "name": "Usuzukuri (8)",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Thinly sliced white fish w. ponzu sauce",
+        "class": "fish",
+        "class2": "none",
+        "price": 12.50
+    },
+    {
+        "id": 27,
+        "name": "Pu Pu Platter",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Fried shrimp, crab rangoon, spring roll, beef & chicken satay, chicken wings",
+        "class": "none",
+        "class2": "none",
+        "price": 12.50
+    },
+    {
+        "id": 28,
+        "name": "Tom Yam Soup",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "1pc Shrimp, garlic, galangal, cilantro, lemongrass, lime leaf, Thai chillies, fresh mushrooms & pineapple",
+        "class": "hot",
+        "class2": "none",
+        "price": 5.50
+    },
+    {
+        "id": 29,
+        "name": "Hot and Sour Soup",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 3.50
+    },
+    {
+        "id": 30,
+        "name": "Wonton Soup",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 3.75
+    },
+    {
+        "id": 31,
+        "name": "Miso Soup",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 3
+    },
+    {
+        "id": 32,
+        "name": "House Green Salad",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 6.5
+    },
+    {
+        "id": 33,
+        "name": "Avocado Salad",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 7.5
+    },
+    {
+        "id": 34,
+        "name": "Seaweed Salad w. Mango",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 8.75
+    },
+    {
+        "id": 35,
+        "name": "Spicy Kani Salad",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 8.75
+    },
+    {
+        "id": 36,
+        "name": "Sashimi Salad",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 12.95
+    },
+    {
+        "id": 37,
+        "name": "Udon Noodle Soup",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 13.95
+    },
+    {
+        "id": 38,
+        "name": "Pad Thai",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 13.95
+    },
+    {
+        "id": 39,
+        "name": "Singapore Noodle",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 13.95
+    },
+    {
+        "id": 40,
+        "name": "Udon",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "peanut",
+        "class2": "none",
+        "price": 13.95
+    },
+    {
+        "id": 41,
+        "name": "Lomein",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "peanut",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 42,
+        "name": "Fried Rice",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 43,
+        "name": "ZaiJiang Mein BeiJing Style",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 14.95
+    },
+    {
+        "id": 44,
+        "name": "Mixed Vegetable & Tofu",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 16.75
+    },
+    {
+        "id": 45,
+        "name": "Chicken",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 17.75
+    },
+    {
+        "id": 46,
+        "name": "Shrimp",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 17.95
+    },
+    {
+        "id": 47,
+        "name": "Steak",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 18.95
+    },
+    {
+        "id": 48,
+        "name": "Tilapia",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 19.95
+    },
+    {
+        "id": 49,
+        "name": "Salmon",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 20.95
+    },
+    {
+        "id": 50,
+        "name": "Chicken & Steak",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 21.95
+    },
+    {
+        "id": 51,
+        "name": "Chicken & Shrimp",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 21.95
+    },
+    {
+        "id": 52,
+        "name": "Steak & Shrimp",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 21.95
+    },
+    {
+        "id": 53,
+        "name": "Shrimp & Salmon",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 22.95
+    },
+    {
+        "id": 54,
+        "name": "Crispy Honey Walnut Shrimp",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "Cold sesame noodles topped w. deep fried shrimp & glazed w. honey walnut sauce",
+        "class": "peanut",
+        "class2": "none",
+        "price": 17.95
+    },
+    {
+        "id": 55,
+        "name": "Sesame Chicken (White Meat)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Chunks of all natural white meat chicken lightly breaded in a crispy honey coating, with black & white sesame seeds.",
+        "class": "none",
+        "class2": "none",
+        "price": 15.95
+    },
+    {
+        "id": 56,
+        "name": "General Tso's Chicken",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 15.95
+    },
+    {
+        "id": 57,
+        "name": "Sesame Crusted Salmon",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Fresh salmon crusted with sesame seeds & marinated in lime juice w. mixed vegetables",
+        "class": "none",
+        "class2": "none",
+        "price": 19.95
+    },
+    {
+        "id": 58,
+        "name": "Crispy Chicken & Shrimp",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "Chunks of all natural white meat chicken lightly breaded in a crispy honey coating with black & deep fried shrimp w. honey walnut sauce",
+        "class": "peanut",
+        "class2": "none",
+        "price": 17.95
+    },
+    {
+        "id": 59,
+        "name": "Wok Glazed Garlic Shrimp",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Shrimp with roasted garlic, scallions, onion, fresh pineapple and broccoli, mushroom, red pepper & carrot",
+        "class": "none",
+        "class2": "none",
+        "price": 16.75
+    },
+    {
+        "id": 60,
+        "name": "Pan-Pan Noodles",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "Braised chicken & shrimp, sauteed red pepper, onion, mushroom, green bean & broccoli, served with crispy noodles",
+        "class": "none",
+        "class2": "none",
+        "price": 18.95
+    },
+    {
+        "id": 61,
+        "name": "Thai Casserole",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Thai curry, lemongrass, coconut w. chicken and shrimp",
+        "class": "hot",
+        "class2": "none",
+        "price": 17.50
+    },
+    {
+        "id": 62,
+        "name": "Samba Delight",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Prawn, sea scallop, and chicken sauteed mushroom, eggplant, carrot, onion, red pepper, snow peas, zucchini, crispy bowl",
+        "class": "hot",
+        "class2": "none",
+        "price": 19.75
+    },
+    {
+        "id": 63,
+        "name": "Crispy Red Snapper",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Delicious & mildly spicy red snapper caramelized in soy syrup, rice wine vinegar and Thai curry, onion, red pepper, mushroom, green bean, broccoli, carrot & crispy vermicelli",
+        "class": "hot",
+        "class2": "none",
+        "price": 22.50
+    },
+    {
+        "id": 64,
+        "name": "Szechuan Peppercorn Chicken & Shrimp",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Sauteed onion, mushroom, red pepper and green bean in house spicy Szechuan sauce",
+        "class": "hot",
+        "class2": "none",
+        "price": 17.25
+    },
+    {
+        "id": 65,
+        "name": "Mongolian Triple Delight",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Shrimp, sliced beef and chicken w. onion, bell pepper & mushroom stir-fried w. hoisin sauce, a touch of chili pepper oil.",
+        "class": "hot",
+        "class2": "none",
+        "price": 18.25
+    },
+    {
+        "id": 66,
+        "name": "Crispy Tilapia",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 20.95
+    },
+    {
+        "id": 67,
+        "name": "Cashew Double Delight",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "Chicken, shrimp, cashew nuts, zucchini, red pepper, served with brown sauce",
+        "class": "peanut",
+        "class2": "none",
+        "price": 17.50
+    },
+    {
+        "id": 68,
+        "name": "Kung Pao Double Delight",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/peanut.png",
+        "description": "Chicken, shrimp, peanuts, zucchini, red pepper, & chili, served with brown sauce",
+        "class": "hot",
+        "class2": "peanut",
+        "price": 17.50
+    },
+    {
+        "id": 69,
+        "name": "Buckeye Delight",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Chicken, beef, shrimp with mixed vegetable",
+        "class": "none",
+        "class2": "none",
+        "price": 17.95
+    },
+    {
+        "id": 70,
+        "name": "Fire Work",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Stir-fried shrimp, lobster tail & scallop w. Thai curry sauce",
+        "class": "hot",
+        "class2": "none",
+        "price": 23.75
+    },
+    {
+        "id": 71,
+        "name": "Ma Po Tofu",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Beef, black bean sauce",
+        "class": "hot",
+        "class2": "none",
+        "price": 14.95
+    },
+    {
+        "id": 72,
+        "name": "Sweet & Sour Chicken",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 14.95
+    },
+    {
+        "id": 73,
+        "name": "War Sue Gai w. Brown Gravy",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "peanut",
+        "class2": "none",
+        "price": 14.95
+    },
+    {
+        "id": 74,
+        "name": "Sambal Samba",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Indonesian spices w. shrimp paste and red pepper, onion, mushroom, carrot, zucchini, snow peas, crispy bowl",
+        "class": "hot",
+        "class2": "none",
+        "price": 15.75
+    },
+    {
+        "id": 75,
+        "name": "Wok Glazed Ginger",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "Caramelized onion, carrot, red pepper, green bean",
+        "class": "none",
+        "class2": "none",
+        "price": 14.75
+    },
+    {
+        "id": 76,
+        "name": "Szechuan Peppercorn",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Red pepper, onion, mushroom, green bean, zucchini, carrot",
+        "class": "hot",
+        "class2": "none",
+        "price": 14.75
+    },
+    {
+        "id": 77,
+        "name": "Ginger Black Bean",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "Onion, mushroom, red pepper, green bean, zucchini, carrot",
+        "class": "none",
+        "class2": "none",
+        "price": 14.75
+    },
+    {
+        "id": 78,
+        "name": "Thai Hot & Spicy",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Red pepper, onion, green beans, mushroom, zucchini, carrot w. Thai sweet sauce",
+        "class": "hot",
+        "class2": "none",
+        "price": 16.75
+    },
+    {
+        "id": 79,
+        "name": "Thai Curry",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Tofu, onion, mushroom, coconut, red pepper, carrot, grean bean, zucchini",
+        "class": "hot",
+        "class2": "none",
+        "price": 14.75
+    },
+    {
+        "id": 80,
+        "name": "Broccoli with Brown Sauce",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "Broccoli and carrot",
+        "class": "none",
+        "class2": "none",
+        "price": 14.75
+    },
+    {
+        "id": 81,
+        "name": "Steamed or Sauteed Mixed Vegetable",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "Choice of White Sauce or Brown Sauce with red pepper, onion, mushroom, green beans, broccoli, carrot, zucchini",
+        "class": "none",
+        "class2": "none",
+        "price": 14.75
+    },
+    {
+        "id": 82,
+        "name": "String Bean Garlic Sauce",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Red pepper, scallion, green bean",
+        "class": "hot",
+        "class2": "none",
+        "price": 14.75
+    },
+    {
+        "id": 83,
+        "name": "Mongolian Sauce",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Red and green pepper, onion, scalllion, mushroom",
+        "class": "hot",
+        "class2": "none",
+        "price": 14.75
+    },
+    {
+        "id": 84,
+        "name": "Orange Peel Style",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 15.75
+    },
+    {
+        "id": 85,
+        "name": "Pepper Steak",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "Pepper, onion, beef",
+        "class": "none",
+        "class2": "none",
+        "price": 15.95
+    },
+    {
+        "id": 86,
+        "name": "Kung Pao Chicken",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/peanut.png",
+        "description": "Zucchini, red pepper, peanuts, chillli",
+        "class": "hot",
+        "class2": "peanut",
+        "price": 15.75
+    },
+    {
+        "id": 87,
+        "name": "Cashew Chicken",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "Zucchini, reed pepper, cashew",
+        "class": "peanut",
+        "class2": "none",
+        "price": 15.75
+    },
+    {
+        "id": 88,
+        "name": "Mala Chicken",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Red pepper, onion, jalapeño",
+        "class": "hot",
+        "class2": "none",
+        "price": 15.75
+    },
+    {
+        "id": 89,
+        "name": "California platter",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Three rolls of California",
+        "class": "none",
+        "class2": "none",
+        "price": 16.95
+    },
+    {
+        "id": 90,
+        "name": "Chirashi",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Variety of fish and pickles on a bed of sushi rice",
+        "class": "fish",
+        "class2": "none",
+        "price": 23.00
+    },
+    {
+        "id": 91,
+        "name": "Crunchy Spicy Roll Platter",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Crunchy spicy salmon roll, crunchy spicy tuna roll and crunchy spicy yellowtail roll",
+        "class": "hot",
+        "class2": "fish",
+        "price": 19.95
+    },
+    {
+        "id": 92,
+        "name": "Love Boat for Two",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "6 pieces sushi, 15 pieces sashimi and shrimp tempura roll, rainbow roll",
+        "class": "fish",
+        "class2": "none",
+        "price": 62.75
+    },
+    {
+        "id": 93,
+        "name": "Love Boat for Four",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "10 pieces sushi, 18 pieces sashimi and tuna roll, spicy love roll, rock & roll",
+        "class": "fish",
+        "class2": "none",
+        "price": 79.95
+    },
+    {
+        "id": 94,
+        "name": "Vegetarian Sushi",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "7 pieces sushi & yasai roll",
+        "class": "none",
+        "class2": "none",
+        "price": 16.95
+    },
+    {
+        "id": 95,
+        "name": "Maki Platter",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Salmon, tuna, and yellowtail roll with special 3-color soybean paper",
+        "class": "fish",
+        "class2": "none",
+        "price": 17.95
+    },
+    {
+        "id": 96,
+        "name": "Sashimi Dinner",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "18 pieces of assorted slice of fish with white rice on the side",
+        "class": "fish",
+        "class2": "none",
+        "price": 29.95
+    },
+    {
+        "id": 97,
+        "name": "Sushi Dinner",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "9 pieces of assorted sushi and 1 Tuna roll",
+        "class": "fish",
+        "class2": "none",
+        "price": 25.95
+    },
+    {
+        "id": 98,
+        "name": "Sushi & Sashimi Combination",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "4 pieces sushi, 12 pieces sashimi and 1 California roll",
+        "class": "fish",
+        "class2": "none",
+        "price": 33.75
+    },
+    {
+        "id": 99,
+        "name": "American Deluxe Sushi",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "3 pcs each tuna, yellowyail, salmon, and 1 tuna avocado roll",
+        "class": "fish",
+        "class2": "none",
+        "price": 28.75
+    },
+    {
+        "id": 100,
+        "name": "Unagi Don (8 pcs)",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 23.95
+    },
+    {
+        "id": 101,
+        "name": "Salmon Sushi Dinner (9 pcs)",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "w. salmon roll",
+        "class": "fish",
+        "class2": "none",
+        "price": 25.95
+    },
+    {
+        "id": 102,
+        "name": "Salmon Sashimi Dinner (14 pcs)",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "w. White Rice on the side",
+        "class": "fish",
+        "class2": "none",
+        "price": 29.50
+    },
+    {
+        "id": 103,
+        "name": "Tuna Sushi Dinner (9 pcs)",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "w. tuna roll",
+        "class": "fish",
+        "class2": "none",
+        "price": 26.95
+    },
+    {
+        "id": 104,
+        "name": "Tuna Sashimi Dinner (14 pcs)",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "w. White Rice on the side",
+        "class": "fish",
+        "class2": "none",
+        "price": 29.95
+    },
+    {
+        "id": 105,
+        "name": "Kani",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Crab Stick)",
+        "class": "none",
+        "class2": "none",
+        "price": 5.25
+    },
+    {
+        "id": 106,
+        "name": "Mackerel",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Saba)",
+        "class": "fish",
+        "class2": "none",
+        "price": 5.25
+    },
+    {
+        "id": 107,
+        "name": "Red Clam",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.25
+    },
+    {
+        "id": 108,
+        "name": "Seared Salmon",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 5.75
+    },
+    {
+        "id": 109,
+        "name": "Shrimp",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Ebi)",
+        "class": "none",
+        "class2": "none",
+        "price": 5.75
+    },
+    {
+        "id": 110,
+        "name": "Squid",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 5.50
+    },
+    {
+        "id": 111,
+        "name": "Sweet Egg",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Tamago)",
+        "class": "none",
+        "class2": "none",
+        "price": 5.25
+    },
+    {
+        "id": 112,
+        "name": "Tuna",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.25
+    },
+    {
+        "id": 113,
+        "name": "Spicy Tuna",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.50
+    },
+    {
+        "id": 114,
+        "name": "Spicy Salmon",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.25
+    },
+    {
+        "id": 115,
+        "name": "Eel",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Unagi)",
+        "class": "none",
+        "class2": "none",
+        "price": 6.50
+    },
+    {
+        "id": 116,
+        "name": "Ikura",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Salmon Roe)",
+        "class": "fish",
+        "class2": "none",
+        "price": 7.00
+    },
+    {
+        "id": 117,
+        "name": "Octopus",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Tako)",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.00
+    },
+    {
+        "id": 118,
+        "name": "Red Snapper",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 5.75
+    },
+    {
+        "id": 119,
+        "name": "Salmon",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Sake)",
+        "class": "fish",
+        "class2": "none",
+        "price": 5.75
+    },
+    {
+        "id": 120,
+        "name": "Seared Tuna",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.25
+    },
+    {
+        "id": 121,
+        "name": "Smoked Salmon",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.25
+    },
+    {
+        "id": 122,
+        "name": "Striped Bass",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Suzuki)",
+        "class": "fish",
+        "class2": "none",
+        "price": 5.75
+    },
+    {
+        "id": 123,
+        "name": "Tobiko",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Flying Fish Egg)",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.25
+    },
+    {
+        "id": 124,
+        "name": "Yellowtail",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Hamachi)",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.50
+    },
+    {
+        "id": 125,
+        "name": "White Tuna",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Hamachi)",
+        "class": "fish",
+        "class2": "none",
+        "price": 5.75
+    },
+    {
+        "id": 126,
+        "name": "Scallop",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 7.25
+    },
+    {
+        "id": 127,
+        "name": "Tuna, Salmon, or Yellowtail",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.95
+    },
+    {
+        "id": 128,
+        "name": "Crunchy Spicy Roll",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Choice of tuna, salmon, yellowtail, and white tuna",
+        "class": "hot",
+        "class2": "fish",
+        "price": 7.95
+    },
+    {
+        "id": 129,
+        "name": "Spicy Salmon, Tuna or Yellowtail Roll",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "fish",
+        "price": 7.50
+    },
+    {
+        "id": 130,
+        "name": "Futo Maki",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Oshinko, avocado, cucumber, sweeg egg",
+        "class": "none",
+        "class2": "none",
+        "price": 7.75
+    },
+    {
+        "id": 131,
+        "name": "Tuna Avocado",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 132,
+        "name": "Salmon Avocado",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 133,
+        "name": "Shrimp w. Asparagus",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 7.25
+    },
+    {
+        "id": 134,
+        "name": "Crab Stick w. Tobiko",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 6.95
+    },
+    {
+        "id": 135,
+        "name": "Alaska Roll",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Fresh salmon, avocado, and cucumber",
+        "class": "fish",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 136,
+        "name": "Boston",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Shrimp, lettuce, cucumber and mayonnaise on the top",
+        "class": "none",
+        "class2": "none",
+        "price": 6.95
+    },
+    {
+        "id": 137,
+        "name": "Calamari",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Fired squid and cucumber, served w. eel sauce",
+        "class": "none",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 138,
+        "name": "Christmas",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Tuna, salmon, avocado with tempura flakes",
+        "class": "fish",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 139,
+        "name": "Eel Avocado",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 140,
+        "name": "Shrimp Tempura",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Cucumber, avocado, lettuces and shrimp tempura",
+        "class": "none",
+        "class2": "none",
+        "price": 7.95
+    },
+    {
+        "id": 141,
+        "name": "Philadelphia",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Smoked salmon, cream cheese, avocado",
+        "class": "none",
+        "class2": "none",
+        "price": 7.50
+    },
+    {
+        "id": 142,
+        "name": "California",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 6.50
+    },
+    {
+        "id": 143,
+        "name": "Salmon Skin",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Salmon skin and cucumber, eel sauce on the top",
+        "class": "none",
+        "class2": "none",
+        "price": 6.95
+    },
+    {
+        "id": 144,
+        "name": "Crab Cream Cheese",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 6.95
+    },
+    {
+        "id": 145,
+        "name": "Spider",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Fried soft shell crab, cucumber, lettuce, avocado and caviar",
+        "class": "fish",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 146,
+        "name": "Crunchy Spicy Scallop",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "fish",
+        "class2": "none",
+        "price": 10.95
+    },
+    {
+        "id": 147,
+        "name": "Dragon",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Eel & cucumber inside, topped w. avocado & caviar",
+        "class": "fish",
+        "class2": "none",
+        "price": 13.75
+    },
+    {
+        "id": 148,
+        "name": "Rainbow",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Crab stick, avocado & cucumber inside, topped w. tuna, salmon, white fish & avocado",
+        "class": "fish",
+        "class2": "none",
+        "price": 13.75
+    },
+    {
+        "id": 149,
+        "name": "Asparagus",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 5.50
+    },
+    {
+        "id": 150,
+        "name": "Avocado",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 5.50
+    },
+    {
+        "id": 151,
+        "name": "Cucumber",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 5.50
+    },
+    {
+        "id": 152,
+        "name": "Avocado Cucumber",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 6.50
+    },
+    {
+        "id": 153,
+        "name": "Inari",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Bean Curd Skin)",
+        "class": "none",
+        "class2": "none",
+        "price": 5.50
+    },
+    {
+        "id": 154,
+        "name": "Kampyo",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Pickled Squash)",
+        "class": "none",
+        "class2": "none",
+        "price": 5.50
+    },
+    {
+        "id": 155,
+        "name": "Peanut Avocado",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "peanut",
+        "class2": "none",
+        "price": 6.50
+    },
+    {
+        "id": 156,
+        "name": "Shiitake Asparagus",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Japanese black mushroom with asparagus",
+        "class": "none",
+        "class2": "none",
+        "price": 6.50
+    },
+    {
+        "id": 157,
+        "name": "Fried Sweet Potato",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Tempura sweet potato inside, topped w. eel sauce",
+        "class": "none",
+        "class2": "none",
+        "price": 6.75
+    },
+    {
+        "id": 158,
+        "name": "Yamagobo",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "(Burdock)",
+        "class": "none",
+        "class2": "none",
+        "price": 5.50
+    },
+    {
+        "id": 159,
+        "name": "Yasai",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Asparagus, avocado and cucumber",
+        "class": "none",
+        "class2": "none",
+        "price": 6.95
+    },
+    {
+        "id": 160,
+        "name": "Sakana Roll",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Sweet egg, cream cheese, avocado, white fish, topped with scallion, caviar & crunchy flakes, served w. sweet chili sauce & eel sauce",
+        "class": "hot",
+        "class2": "fish",
+        "price": 15.95
+    },
+    {
+        "id": 161,
+        "name": "Hawaiian",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Fried banana with crabmeat, avocado, cucumber, mayo & mango sauce on the top",
+        "class": "none",
+        "class2": "none",
+        "price": 12.95
+    },
+    {
+        "id": 162,
+        "name": "Lobster",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Fried lobster, cucumber, lettuce, avocado & caviar. Served w. eel sauce",
+        "class": "none",
+        "class2": "none",
+        "price": 12.95
+    },
+    {
+        "id": 163,
+        "name": "Pacific",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Fried Lobster tail and kani rolled in thinly sliced cucumber. Served with spicy mayo & eel sauce",
+        "class": "hot",
+        "class2": "none",
+        "price": 15.95
+    },
+    {
+        "id": 164,
+        "name": "Reynoldsburg",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Tempura roll with Japanese vegetabe. Topped with spicy tuna and caviar. Served with spicy mayo & eel sauce",
+        "class": "hot",
+        "class2": "fish",
+        "price": 14.95
+    },
+    {
+        "id": 165,
+        "name": "Broad St",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Tempura roll with psicy lobster and asparagus inside, topped with avocado. Served with spicy mayo & eel sauce",
+        "class": "hot",
+        "class2": "none",
+        "price": 15.95
+    },
+    {
+        "id": 166,
+        "name": "Tsunami",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Jalapeno pepper dew, red pepper & cucumber inside, topped with pepper tuna & avocado. Served with spicy mayo",
+        "class": "hot",
+        "class2": "fish",
+        "price": 15.95
+    },
+    {
+        "id": 167,
+        "name": "Fireball",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Tempura roll w. king crab, avocado and cream cheese, mango and seaweed salad on the top. Served with spicy mayo & eel sauce",
+        "class": "hot",
+        "class2": "none",
+        "price": 16.95
+    },
+    {
+        "id": 168,
+        "name": "Golden Dream",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Fried shrimp and avocado inside, topped with mango and caviar. Served with mango sauce & eel sauce",
+        "class": "none",
+        "class2": "none",
+        "price": 13.95
+    },
+    {
+        "id": 169,
+        "name": "Tropical",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Shrimp, crabmeat, mango, avocado, and cucumber w. pink soybean paper, topped w. spicy mayo & mango sauce",
+        "class": "hot",
+        "class2": "none",
+        "price": 14.75
+    },
+    {
+        "id": 170,
+        "name": "Green Devil",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Eel, fried shrimp, avocado and cucumber w. green soybean paper, eel sauce on the top",
+        "class": "none",
+        "class2": "none",
+        "price": 14.95
+    },
+    {
+        "id": 171,
+        "name": "Kamikaze",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Fried shrimp and spicy tuna inside, topped with tuna and eel. Served with spicy mayo & eel sauce",
+        "class": "hot",
+        "class2": "fish",
+        "price": 16.75
+    },
+    {
+        "id": 172,
+        "name": "Mars",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Crunchy spicy lobster inside, topped with salmon and tuna. Served with spicy mayo",
+        "class": "hot",
+        "class2": "fish",
+        "price": 16.75
+    },
+    {
+        "id": 173,
+        "name": "Miracle",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Salmon, tuna, white fish, crab sticks and crunchy spicy scallop, topped w. spicy mayo",
+        "class": "hot",
+        "class2": "fish",
+        "price": 16.75
+    },
+    {
+        "id": 174,
+        "name": "Naruto",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Salmon, tuna, yellowtail and avocado, tolled in thinly sliced cucumber",
+        "class": "fish",
+        "class2": "none",
+        "price": 15.24
+    },
+    {
+        "id": 175,
+        "name": "Rock & Roll",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Tempura roll with salmon, white fish, crab sticks and scallion. Served with spicy mayo, eel sauce and wasabi sauce",
+        "class": "hot",
+        "class2": "fish",
+        "price": 12.50
+    },
+    {
+        "id": 176,
+        "name": "Scorpion King",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Soft shell crab, spicy tuna, avocado, lettuce & caviar. Served with spicy mayo & eel sauce",
+        "class": "hot",
+        "class2": "fish",
+        "price": 14.95
+    },
+    {
+        "id": 177,
+        "name": "Columbus",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Spicy salmon, asparagus inside, yellowtail, avocado & jalapeno on the top",
+        "class": "hot",
+        "class2": "fish",
+        "price": 14.95
+    },
+    {
+        "id": 178,
+        "name": "Spicy Tuna Tempura",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Spicy tuna & cream cheese. Served w. spicy mayo and eel sauce",
+        "class": "hot",
+        "class2": "fish",
+        "price": 12.95
+    },
+    {
+        "id": 179,
+        "name": "Volcano",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Tempura roll with white fish, salmon, tuna, topped w. scallion and caviar. Served w. spicy mayo and eel sauce",
+        "class": "hot",
+        "class2": "fish",
+        "price": 12.95
+    },
+    {
+        "id": 180,
+        "name": "Cincinnati",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Tempura roll with salmon, kani and cream cheese. Topped w. wasabi sauce and eel sauce",
+        "class": "hot",
+        "class2": "fish",
+        "price": 13.95
+    },
+    {
+        "id": 181,
+        "name": "Buckeye Roll",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Eel, avocado, crushed peanut, topped w. crab & spicy mayo",
+        "class": "hot",
+        "class2": "none",
+        "price": 14.95
+    },
+    {
+        "id": 182,
+        "name": "Spicy Love Roll",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Black pepper tuna, avocado, topped w. spicy salmon & honey wasabi sauce",
+        "class": "hot",
+        "class2": "fish",
+        "price": 13.95
+    },
+    {
+        "id": 183,
+        "name": "Monster",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Shrimp tempura, cream cheese, avocado w. soy bean paper. Fried crab meat on the top, served w. special sauce",
+        "class": "hot",
+        "class2": "none",
+        "price": 16.75
+    },
+    {
+        "id": 184,
+        "name": "Fantastic",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Shrimp tempura, avocado inside, top w. baked crunchy spicy lovster salad & honey mayo & spicy mayo sauce",
+        "class": "hot",
+        "class2": "none",
+        "price": 16.75
+    },
+    {
+        "id": 185,
+        "name": "Giant",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Tempura roll w. avocado, salmon, tuna & white tuna topped w. baked crunchy spicy kani salad w. spicy mayo & fish egg",
+        "class": "hot",
+        "class2": "fish",
+        "price": 16.75
+    },
+    {
+        "id": 186,
+        "name": "Sushi Lunch",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "5 pcs Sushi, 1 California Roll",
+        "class": "fish",
+        "class2": "none",
+        "price": 12.95
+    },
+    {
+        "id": 187,
+        "name": "Sashimi Lunch",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "9 pcs Sashimi",
+        "class": "fish",
+        "class2": "none",
+        "price": 13.95
+    },
+    {
+        "id": 188,
+        "name": "Sushi and Sashimi Lunch",
+        "image": "imgs/fish.png",
+        "image2": "imgs/fish.png",
+        "description": "Tempura roll w. avocado, salmon, tuna & white tuna topped w. baked crunchy spicy kani salad w. spicy mayo & fish egg",
+        "class": "fish",
+        "class2": "none",
+        "price": 18.95
+    },
+    {
+        "id": 189,
+        "name": "Any 2 Rolls",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Choice of Hot & Sour Soup, Miso Soup or Salad (No substitution)",
+        "class": "none",
+        "class2": "none",
+        "price": 16.75
+    },
+    {
+        "id": 190,
+        "name": "Any 3 Rolls",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "Choice of Hot & Sour Soup, Miso Soup or Salad (No substitution)",
+        "class": "none",
+        "class2": "none",
+        "price": 16.75
+    },
+    {
+        "id": 191,
+        "name": "Sweet & Sour Chicken (Lunch",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 192,
+        "name": "War Sue Gai (Lunch)",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "peanut",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 193,
+        "name": "Sesame Chicken (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 194,
+        "name": "Chicken w. Cashew Nuts (Lunch)",
+        "image": "imgs/peanut.png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "peanut",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 195,
+        "name": "General Tso's Chicken (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 196,
+        "name": "Mala Chicken (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 197,
+        "name": "Kung Pao Chicken (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/peanut.png",
+        "description": "",
+        "class": "hot",
+        "class2": "peanut",
+        "price": 11.95
+    },
+    {
+        "id": 198,
+        "name": "Ma Po Tofu (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 199,
+        "name": "Wok Glazed Ginger (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 200,
+        "name": "Broccoli (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 201,
+        "name": "Ginger Black Bean (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 202,
+        "name": "String Bean w. Garlic Sauce (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 203,
+        "name": "Thai Curry (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 204,
+        "name": "Sambal Samba (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 205,
+        "name": "Szechuan Peppercorn (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "hot",
+        "class2": "none",
+        "price": 11.95
+    },
+    {
+        "id": 206,
+        "name": "Mixed Vegetable & Tofu Teriyaki(Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 12.95
+    },
+    {
+        "id": 207,
+        "name": "Chicken Teriyaki (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 13.95
+    },
+    {
+        "id": 208,
+        "name": "Shrimp Teriyaki (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 14.50
+    },
+    {
+        "id": 209,
+        "name": "Steak Teriyaki (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 14.95
+    },
+    {
+        "id": 210,
+        "name": "Salmon Teriyaki (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 14.95
+    },
+    {
+        "id": 211,
+        "name": "Chicken & Steak Teriyaki (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 16.95
+    },
+    {
+        "id": 212,
+        "name": "Chicken & Shrimp Teriyaki (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 16.95
+    },
+    {
+        "id": 213,
+        "name": "Steak & Shrimp Teriyaki (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 17.50
+    },
+    {
+        "id": 214,
+        "name": "Steak & Salmon Teriyaki (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 17.50
+    },
+    {
+        "id": 215,
+        "name": "Mixed Vegetable & Tofu Hibachi (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 12.95
+    },
+    {
+        "id": 216,
+        "name": "Chicken Hibachi (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 13.95
+    },
+    {
+        "id": 217,
+        "name": "Shrimp Hibachi (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 14.50
+    },
+    {
+        "id": 218,
+        "name": "Steak Hibachi (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 14.95
+    },
+    {
+        "id": 219,
+        "name": "Salmon Hibachi (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 14.95
+    },
+    {
+        "id": 220,
+        "name": "Chicken & Steak Hibachi (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 16.95
+    },
+    {
+        "id": 221,
+        "name": "Chicken & Shrimp Hibachi (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 16.95
+    },
+    {
+        "id": 222,
+        "name": "Steak & Shrimp Hibachi (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 17.50
+    },
+    {
+        "id": 223,
+        "name": "Shrimp & Salmon Hibachi (Lunch)",
+        "image": "imgs/flame (1).png",
+        "image2": "imgs/fish.png",
+        "description": "",
+        "class": "none",
+        "class2": "none",
+        "price": 17.50
+    }
+]
