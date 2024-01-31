@@ -37,7 +37,7 @@ body{
 }
 
 .navbar ul{
-    margin-top: 2vh;
+    padding-top: 2vh;
     margin-bottom: 2vh;
     justify-content: center;
     align-items: center;
