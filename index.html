@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sakana Asian Fusion</title>
+    <link rel="stylesheet" href="Sakana.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="nav-header">
+        <header class="header">
+            <nav class="navbar">
+                <ul class="nav-menu">
+                    <li class="nav-dot">&#x2022</li>
+                    <li class="nav-item">
+                        <a href="Sakana.html" class="nav-links">HOME</a>
+                    </li>
+                    <li class="nav-item"> 
+                        <a href="Locations.html" class="nav-links">HOURS & LOCATION</a>
+                    </li>
+                    <li class="nav-dot2">&#x2022</li>
+                    <li class="nav-item"> 
+                        <a href="menu.html" class="nav-links">MENU</a>
+                    </li>
+                    <li class="nav-dot">&#x2022</li>
+                </ul>
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </nav>
+        </header>
+        <img src="imgs/sakana.png">
+    </div>
+    <div class="mainBody">
+        <div class="Welcome">
+            <h1>Our restaurant</h1>
+            <p>
+                Experience the exquisite flavors of Japanese, Thai, and Chinese cuisine at our restaurant today. Indulge in a diverse selection of dishes, including Thai spring rolls, miso soup, and kung pao chicken. Join us for a culinary journey that promises delightful tastes and exceptional service.
+            </p>
+        </div>
+        <div class="images">
+                <img src="https://d1ralsognjng37.cloudfront.net/258d293c-01b8-4b56-b2d0-ad1fed1851a8.jpeg">
+                <img src="https://d1ralsognjng37.cloudfront.net/c627d4f4-9e23-4b74-b6d8-6ed276c9043d.jpeg">
+                <img src="https://d1ralsognjng37.cloudfront.net/b86e35fe-d11f-49dc-9d97-7ad16d6191d6.jpeg">
+                <img src="https://d1ralsognjng37.cloudfront.net/920338bd-5696-4a23-9845-49e24d589b28.jpeg">
+        </div>
+        <div class="images2">
+            <div class="row1">
+                <img src="https://d1ralsognjng37.cloudfront.net/258d293c-01b8-4b56-b2d0-ad1fed1851a8.jpeg">
+                <img src="https://d1ralsognjng37.cloudfront.net/c627d4f4-9e23-4b74-b6d8-6ed276c9043d.jpeg">
+            </div>
+            <div class="row2">
+                <img src="https://d1ralsognjng37.cloudfront.net/b86e35fe-d11f-49dc-9d97-7ad16d6191d6.jpeg">
+                <img src="https://d1ralsognjng37.cloudfront.net/920338bd-5696-4a23-9845-49e24d589b28.jpeg"></div>
+        </div>
+        <div class="footer">
+            <center>
+            <p>Sakana</p>
+            <p>Sushi and Asian Fusion</p>
+            </center>
+        </div>
+    </div>
+    <script>
+        // navbar
+        const hamburger = document.querySelector(".hamburger");
+        const navMenu = document.querySelector(".nav-menu");
+        const navLink = document.querySelector(".nav-links");
+        
+        hamburger.addEventListener("click", menu);
+        navLink.addEventListener("click", closeMenu)
+
+        function menu() {
+            hamburger.classList.toggle("active");
+            navMenu.classList.toggle("active");
+        }
+
+        function closeMenu() {
+            hamburger.classList.remove("active");
+            navMenu.classList.remove("active");
+        }
+
+
+    </script>
+</body>
+</html>
